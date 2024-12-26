@@ -10,8 +10,9 @@ Download the Power BI file: Download the Adidas_Sales_Analysis.pbix file from th
 Open the file in Power BI Desktop: Open the downloaded file in Power BI Desktop.
 Explore the dashboard: Interact with the visualizations and explore the data.
 Screenshots
-[Adidas Sales Analysis](https://github.com/user-attachments/assets/3877cf8e-a090-457c-b876-8ed93c61c6af)
-Data Sources!
+ ![Adidas Sales Analysis](https://github.com/user-attachments/assets/9d8b5154-b3a6-478e-bdef-ce71a4205862)
+
+Data Sources
 The data used in this dashboard is sourced from kaggle.
 
 Contributions
